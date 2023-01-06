@@ -21,6 +21,7 @@ body {
     width: 100vw;
     height: 10vh;
     background-color: rgb(255, 225, 0);
+    margin-bottom: 7vh;
 }
 
 ion-icon {
@@ -235,9 +236,9 @@ input[type=password]::placeholder {
 .incpass{
     background-color: rgb(255, 166, 57);
     height: 6vh;
-    width: 16.1vw;
+    width: 16.2vw;
     margin-left:42vw;
-    margin-top: 2vh;
+    margin-top: 6vh;
     display: flex;
     align-items: center;
     justify-content: center;
