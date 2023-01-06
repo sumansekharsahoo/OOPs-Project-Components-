@@ -231,3 +231,17 @@ input[type=password]::placeholder {
     height: 30px;
     margin-left: 90px;
 }
+
+.incpass{
+    background-color: rgb(255, 166, 57);
+    height: 6vh;
+    width: 16.1vw;
+    margin-left:42vw;
+    margin-top: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    visibility: hidden;
+    
+}
