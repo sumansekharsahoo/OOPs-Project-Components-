@@ -8,9 +8,10 @@ document.querySelector('.tpbtn').addEventListener('click',function(){
         cbal+=topamt;
         document.querySelector('.cbalamt').textContent=cbal;
         console.log(cbal);
+        document.querySelector('.incpass').style.visibility="hidden";
     }
     else{
-
+        document.querySelector('.incpass').style.visibility="visible";
     }
     
 })
