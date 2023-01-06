@@ -236,7 +236,7 @@ input[type=password]::placeholder {
 .incpass{
     background-color: rgb(255, 166, 57);
     height: 6vh;
-    width: 16.2vw;
+    width: 16.8vw;
     margin-left:42vw;
     margin-top: 6vh;
     display: flex;
