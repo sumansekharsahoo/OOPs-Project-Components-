@@ -1,5 +1,5 @@
 # Wallet Page
--page-link: https://sumansekharsahoo.github.io/OOPs-Project-Wallet/
+-page-link: https://sumansekharsahoo.github.io/Wallet/
 
 Wallet can be recharged by entering amount and using:                                                                                                                     
 Username: "suman"                                                                                                                                                         
